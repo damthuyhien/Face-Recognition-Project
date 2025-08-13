@@ -44,8 +44,8 @@ def encode_known_faces(known_faces):
 
 # Define known faces with explicit names
 known_faces = {
-    "Dam Thuy Hien": "Face-recognition-bug-fixes/Images/hien.jpg",
-    "Dam Minh Long": "Face-recognition-bug-fixes/Images/long.jpg"
+    "Dam Thuy Hien": "data/images/hien.jpg",
+    "Dam Minh Long": "data/images/long.jpg"
     # "Bob": "images/bob.jpg",
     # "Charlie": "images/charlie.jpg"
 }
