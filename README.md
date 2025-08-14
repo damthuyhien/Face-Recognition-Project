@@ -1,6 +1,5 @@
 # Face-Recognition-Project 🚀👤🔍
-
-![Face Recognition Banner](https://img.shields.io/badge/Face%20Recognition-Project-AI%20Powered%20Identification-blue?style=for-the-badge&logo=python)  
+ 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg?style=flat&logo=python)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](https://opensource.org/licenses/MIT)   
 [![Stars](https://img.shields.io/github/stars/damthuyhien/Face-Recognition-Project?style=social)](https://github.com/damthuyhien/Face-Recognition-Project)  
